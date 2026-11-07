@@ -1,0 +1,81 @@
+{
+  "name": "Golden Days Lodges",
+  "legal": "Golden Days Executive Lodge",
+  "tagline": "Five lodges. One warm Zambian welcome.",
+  "domain": "YOUR-DOMAIN",
+  "email": "info@goldendayslodge.com",
+  "main_phone": "+260975151279",
+  "main_wa": "260975151279",
+  "social": {
+    "facebook": "https://www.facebook.com/goldendayslodge",
+    "instagram": "https://www.instagram.com/golden_days_lodge"
+  },
+  "included": ["Self-contained rooms", "DSTV", "Wireless internet", "Room service", "Continental breakfast included"],
+  "rates_note": "Rates are taken from the lodge's current website and may change. Please confirm when you enquire.",
+  "branches": [
+    {
+      "slug": "woodlands", "name": "Woodlands Main", "short": "Main Lodge", "town": "Lusaka", "area": "Woodlands Ext, Lusaka",
+      "address": "Plot No. 12238, Off Mosi O Tunya Road, Woodlands Ext, Lusaka",
+      "phone": "+260975151279", "wa": "260975151279",
+      "img": "room", "hero": "room",
+      "tagline": "Our main lodge in the heart of Woodlands, Lusaka.",
+      "blurb": "The original Golden Days. Comfortable, self-contained rooms from standard doubles to an executive suite, with breakfast included and a restaurant and conferencing facilities on site.",
+      "rooms": [["Standard Double", "K350", ""], ["Double", "K400", ""], ["Double Deluxe", "K450 – K500", ""], ["Twin", "K550", ""], ["Executive Suite", "K700", ""]],
+      "from": "K350"
+    },
+    {
+      "slug": "buluwe", "name": "Buluwe", "short": "Buluwe Lodge", "town": "Lusaka", "area": "Buluwe Road, Woodlands, Lusaka",
+      "address": "36 Buluwe Road, Woodlands, Lusaka",
+      "phone": "+260763887458", "wa": "260763887458",
+      "img": "pool2", "hero": "pool2",
+      "tagline": "Quiet, comfortable rooms on Buluwe Road.",
+      "blurb": "A calm Woodlands address with straightforward, good-value rooms, ideal for business trips and longer stays.",
+      "rooms": [["Standard Room", "K200 – K400", ""], ["Standard Double", "K450", ""]],
+      "from": "K200"
+    },
+    {
+      "slug": "makeni", "name": "Makeni (Bonaventure)", "short": "Makeni Lodge", "town": "Lusaka", "area": "Makeni, Bonaventure, Lusaka",
+      "address": "Makeni, Bonaventure, Lusaka",
+      "phone": "+260770987675", "wa": "260770987675",
+      "img": "garden", "hero": "garden",
+      "tagline": "Relaxed lodging in Makeni, Bonaventure.",
+      "blurb": "Our southern Lusaka lodge, with double and double deluxe rooms and the same Golden Days welcome.",
+      "rooms": [["Standard Double", "K400", ""], ["Double Deluxe", "K500", ""]],
+      "from": "K400"
+    },
+    {
+      "slug": "livingstone", "name": "Livingstone", "short": "Livingstone Lodge", "town": "Livingstone", "area": "Behind the Museum, Livingstone",
+      "address": "3S Chisamba Way, 2nd road behind the Museum, Livingstone",
+      "phone": "+260978936669", "wa": "260978936669",
+      "img": "falls", "hero": "falls",
+      "tagline": "Your base for Victoria Falls and the Zambezi.",
+      "blurb": "Stay in Livingstone, the adventure capital of Zambia, with rooms from standard to executive and self-catering apartments for longer stays.",
+      "rooms": [["Standard Room", "K650 – K850", ""], ["Double", "K500 – K550", ""], ["Executive", "K750", ""], ["Apartment", "K1,500", "Kitchenette with stove, fridge and microwave, living room, a double deluxe room, bath and shower."]],
+      "from": "K500"
+    },
+    {
+      "slug": "senanga", "name": "Senanga", "short": "Senanga Lodge", "town": "Senanga", "area": "Lui Drive, Boma Area, Senanga",
+      "address": "Plot #0690, Lui Drive (Boma Area), Senanga",
+      "phone": null, "wa": null,
+      "img": "zambezi", "hero": "zambezi",
+      "tagline": "A welcome stop on the banks of the Zambezi.",
+      "blurb": "Affordable, comfortable rooms in the Boma area of Senanga, in Zambia's Western Province.",
+      "rooms": [["Standard Room", "K150", ""], ["Standard Double", "K200", ""]],
+      "from": "K150"
+    }
+  ],
+  "images": {
+    "sunrise":  {"id": "photo-1723270868972-fed4b06feae4", "alt": "Sunrise over the African savanna", "by": "Udara Karunarathna", "h": "itsmepodda", "tag": "Places"},
+    "acacia":   {"id": "photo-1756475471671-48813cf5ea5b", "alt": "Acacia tree silhouetted against an African sky", "by": "Catherine Merlin", "h": "camerlin", "tag": "Places"},
+    "room":     {"id": "photo-1744534637336-6110864236fc", "alt": "A made bed with white linen in a modern hotel room", "by": "Markus Winkler", "h": "markuswinkler", "tag": "Rooms"},
+    "pool1":    {"id": "photo-1757889692998-d851b95f912e", "alt": "Hotel pool area with palm trees", "by": "Ryan Waldman", "h": "rwaldman93", "tag": "Rooms"},
+    "pool2":    {"id": "photo-1618681850501-6e1aae4f916f", "alt": "Swimming pool surrounded by palm trees", "by": "Cory Bjork", "h": "corybjork", "tag": "Rooms"},
+    "garden":   {"id": "photo-1737991959098-abdff2d5bb7a", "alt": "A table set for a meal in a garden", "by": "Paulina S.", "h": "pollypommes", "tag": "Dining"},
+    "food":     {"id": "photo-1560963859-6f618d786177", "alt": "Cooked meat with rice served on a white plate", "by": "Karl Janisse", "h": "karl_janisse", "tag": "Dining"},
+    "events":   {"id": "photo-1758810744028-689670b0877c", "alt": "Outdoor tables set for a festive gathering with flowers", "by": "Bruno Ngarukiye", "h": "itsbrunoagain", "tag": "Events"},
+    "conf":     {"id": "photo-1637665599155-abfcf9fc3f78", "alt": "Conference room with desks and chairs", "by": "Craig Lovelidge", "h": "craigology", "tag": "Events"},
+    "car":      {"id": "photo-1735423366959-c875a84a5a10", "alt": "A safari vehicle on a dirt road", "by": "Collins Lesulie", "h": "clesulie", "tag": "Places"},
+    "falls":    {"id": "photo-1666732566977-8805c13a6ce2", "alt": "Victoria Falls and the bridge at Mosi-oa-Tunya, Livingstone", "by": "Eston Oboch", "h": "eston_oboch", "tag": "Places"},
+    "zambezi":  {"id": "photo-1635749687861-4341928cbf97", "alt": "People in a canoe on the Zambezi River", "by": "Chris Linnett", "h": "chrislinnett", "tag": "Places"}
+  }
+}
